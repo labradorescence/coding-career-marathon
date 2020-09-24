@@ -14,7 +14,7 @@ cracking the code interview book
 https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_coding_interview__6th_edition_189_programming_questions_and_solutions.pdf
 
 
-Rei's blog train lol 
+# Rei's blog train lol 
 
 Redux:
 
@@ -43,6 +43,6 @@ Build a Rails API With JWT => https://medium.com/better-programming/build-a-rail
 
 
 
-deploying project 
+# deploying project
 Rails Backend: https://devcenter.heroku.com/articles/getting-started-with-rails6
 React Frontend: https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/
