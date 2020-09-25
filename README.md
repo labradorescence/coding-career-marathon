@@ -55,3 +55,7 @@ Build a Rails API With JWT => https://medium.com/better-programming/build-a-rail
 Rails Backend: https://devcenter.heroku.com/articles/getting-started-with-rails6
 
 React Frontend: https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/
+
+
+# react css animation 
+https://reactjsexample.com/tag/animation/
