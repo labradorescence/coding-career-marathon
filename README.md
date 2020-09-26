@@ -67,7 +67,10 @@ https://www.csswinner.com/category/Portfolio/4
 Sharobella Global Agency
 https://sharobella.com/
 
-# friend's portfolio
+# friend's portfolio & cool website
+
+https://www.chiaraluzzana.com/
+
 https://doodl.netlify.app/
 
 https://aleksarad.github.io/
