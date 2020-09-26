@@ -63,6 +63,14 @@ https://reactjsexample.com/tag/animation/
 # css portfolio
 https://www.csswinner.com/category/Portfolio/4
 
+# D3
+https://www.freecodecamp.org/news/how-to-get-started-with-d3-and-react-c7da74a5bd9f/
+
+https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
+
+https://wattenberger.com/blog/react-and-d3
+
+
 # creative agency
 Sharobella Global Agency
 https://sharobella.com/
