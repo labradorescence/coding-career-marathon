@@ -60,6 +60,9 @@ React Frontend: https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-les
 # react css animation 
 https://reactjsexample.com/tag/animation/
 
+# css portfolio
+https://www.csswinner.com/category/Portfolio/4
+
 # friend's portfolio
 https://doodl.netlify.app/
 
