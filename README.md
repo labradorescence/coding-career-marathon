@@ -78,6 +78,8 @@ https://wattenberger.com/blog/react-and-d3
 Sharobella Global Agency
 https://sharobella.com/
 
+https://zajno.com/contact
+
 # friend's portfolio & cool website
 
 https://www.chiaraluzzana.com/
