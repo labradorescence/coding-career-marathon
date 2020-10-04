@@ -22,6 +22,17 @@ cracking the code interview book
 https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_coding_interview__6th_edition_189_programming_questions_and_solutions.pdf
 
 
+# stalking company
+
+https://angel.co/
+
+https://www.fastcompany.com/
+
+https://techcrunch.com/
+
+https://builtwith.com/
+
+
 # Rei's blog train lol 
 
 Redux:
@@ -89,3 +100,4 @@ https://doodl.netlify.app/
 https://aleksarad.github.io/
 
 https://elishevaelbaz.github.io/
+
