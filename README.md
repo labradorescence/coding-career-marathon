@@ -21,6 +21,10 @@ https://docs.google.com/presentation/d/1dCoQSNo-ZFKsQm6YBpElLvTJkeUhYqecRRUnLK3U
 cracking the code interview book
 https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_coding_interview__6th_edition_189_programming_questions_and_solutions.pdf
 
+# womanx 
+
+https://www.womenwhocode.com/
+
 
 # stalking company
 
