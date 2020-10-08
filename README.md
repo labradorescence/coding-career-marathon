@@ -71,6 +71,7 @@ nginx.org
 vultr.com
 
 
+
 # react css animation 
 https://reactjsexample.com/tag/animation/
 
@@ -84,6 +85,8 @@ https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
 
 https://wattenberger.com/blog/react-and-d3
 
+# wine 
+https://www.menada-winery.com/en/region
 
 # creative agency
 Sharobella Global Agency
