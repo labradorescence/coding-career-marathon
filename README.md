@@ -5,6 +5,8 @@ https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass
 leetcode solve 3 easy problems / 1 hour per day 
 https://leetcode.com/
 
+graph musicmap
+https://musicmap.info/
 
 # interview-prep
 
