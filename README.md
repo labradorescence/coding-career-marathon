@@ -26,7 +26,7 @@ https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_codin
 # womanx 
 
 https://www.womenwhocode.com/
-
+https://www.youtube.com/user/WomenWhoCode
 
 # stalking company
 
