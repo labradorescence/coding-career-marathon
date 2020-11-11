@@ -1,3 +1,10 @@
+# job listings
+https://www.builtinnyc.com/jobs
+
+https://angel.co/
+
+https://underdog.io/
+
 # algo study
 algo course by Colt Steele
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass 
