@@ -5,6 +5,11 @@ https://angel.co/
 
 https://underdog.io/
 
+https://www.diversifytech.co/
+
+https://www.womenwhocode.com/jobs
+
+
 # algo study
 algo course by Colt Steele
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass 
