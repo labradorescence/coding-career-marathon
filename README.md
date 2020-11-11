@@ -19,9 +19,13 @@ https://medium.com/swlh/the-golden-guide-to-landing-a-developer-position-c78ad34
 white boarding slide
 https://docs.google.com/presentation/d/1dCoQSNo-ZFKsQm6YBpElLvTJkeUhYqecRRUnLK3UX_s/edit
 
-
 cracking the code interview book
 https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_coding_interview__6th_edition_189_programming_questions_and_solutions.pdf
+
+
+# resume
+https://www.beamjobs.com/resumes/software-engineer-resume-examples
+
 
 # womanx 
 
