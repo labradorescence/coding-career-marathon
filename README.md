@@ -9,6 +9,8 @@ https://www.diversifytech.co/
 
 https://www.womenwhocode.com/jobs
 
+https://www.workatastartup.com/
+
 
 # algo study
 algo course by Colt Steele
