@@ -23,13 +23,14 @@ cracking the code interview book
 https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_coding_interview__6th_edition_189_programming_questions_and_solutions.pdf
 
 
-# resume
+# resume - tech projects and experience writing
 https://www.beamjobs.com/resumes/software-engineer-resume-examples
 
 
 # womanx 
 
 https://www.womenwhocode.com/
+
 https://www.youtube.com/user/WomenWhoCode
 
 # stalking company
