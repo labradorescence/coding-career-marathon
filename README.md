@@ -41,6 +41,12 @@ https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_codin
 https://www.beamjobs.com/resumes/software-engineer-resume-examples
 
 
+# create awesome git/ readMe
+
+https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
+
+
+
 # womanx 
 
 https://www.womenwhocode.com/
