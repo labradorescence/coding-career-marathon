@@ -64,7 +64,7 @@ https://techcrunch.com/
 https://builtwith.com/
 
 
-# Rei's blog train lol 
+# Rei's blog train 
 
 Redux:
 
@@ -118,6 +118,11 @@ https://wattenberger.com/blog/react-and-d3
 
 # wine 
 https://www.menada-winery.com/en/region
+
+# flatiron mod 4
+
+https://github.com/labradorescence/flatiron-mod4-instruction
+
 
 # creative agency
 Sharobella Global Agency
