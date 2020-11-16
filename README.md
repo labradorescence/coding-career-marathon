@@ -40,6 +40,7 @@ https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_codin
 # resume - tech projects and experience writing
 https://www.beamjobs.com/resumes/software-engineer-resume-examples
 
+https://dev.to/liviufromendtest/6-small-projects-that-will-boost-your-resume-32pa?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=
 
 # create awesome git/ readMe
 
