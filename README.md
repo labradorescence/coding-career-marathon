@@ -42,6 +42,8 @@ https://www.beamjobs.com/resumes/software-engineer-resume-examples
 
 https://dev.to/liviufromendtest/6-small-projects-that-will-boost-your-resume-32pa?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=
 
+https://www.contractrecruiter.com/guide-hire-software-engineers/
+
 # create awesome git/ readMe
 
 https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
