@@ -11,6 +11,7 @@ https://www.womenwhocode.com/jobs
 
 https://www.workatastartup.com/
 
+https://we.include.io/all-jobs
 
 # algo study
 algo course by Colt Steele
@@ -37,12 +38,20 @@ cracking the code interview book
 https://flatiron-school.slack.com/files/UHBJ9SLFR/F017LB49AAZ/cracking_the_coding_interview__6th_edition_189_programming_questions_and_solutions.pdf
 
 
+# open source
+gatsby how to contribute: https://www.youtube.com/watch?v=9wM3pFtyTHw
+
+wwc Hacktoberfest: https://www.youtube.com/watch?v=xa2dr8WNwv4&list=PLVcEZG2JPVhcolw04px15_lrBa9Upt_ry&index=7
+
+
+
 # resume - tech projects and experience writing
 https://www.beamjobs.com/resumes/software-engineer-resume-examples
 
 https://dev.to/liviufromendtest/6-small-projects-that-will-boost-your-resume-32pa?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=
 
 https://www.contractrecruiter.com/guide-hire-software-engineers/
+
 
 # create awesome git/ readMe
 
