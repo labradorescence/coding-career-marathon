@@ -46,6 +46,7 @@ gatsby how to contribute: https://www.youtube.com/watch?v=9wM3pFtyTHw
 
 wwc Hacktoberfest: https://www.youtube.com/watch?v=xa2dr8WNwv4&list=PLVcEZG2JPVhcolw04px15_lrBa9Upt_ry&index=7
 
+google open source https://opensource.google/docs/releasing/template/CONTRIBUTING/
 
 
 # resume - tech projects and experience writing
