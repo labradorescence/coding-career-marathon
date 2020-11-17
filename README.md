@@ -17,11 +17,14 @@ https://we.include.io/all-jobs
 algo course by Colt Steele
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass 
 
+graph musicmap
+https://musicmap.info/
+
 leetcode solve 3 easy problems / 1 hour per day 
 https://leetcode.com/
 
-graph musicmap
-https://musicmap.info/
+hackerrank https://www.hackerrank.com/dashboard
+
 
 # interview-prep
 
