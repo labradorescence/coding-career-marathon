@@ -56,6 +56,7 @@ https://dev.to/liviufromendtest/6-small-projects-that-will-boost-your-resume-32p
 
 https://www.contractrecruiter.com/guide-hire-software-engineers/
 
+cool projects for the resume: https://dev.to/liviufromendtest/6-small-projects-that-will-boost-your-resume-32pa?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=
 
 # create awesome git/ readMe
 
