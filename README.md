@@ -143,10 +143,19 @@ https://github.com/labradorescence/flatiron-mod4-instruction
 
 
 # creative agency
-Sharobella Global Agency
-https://sharobella.com/
+
+Sharobella Global Agency https://sharobella.com/
 
 https://zajno.com/contact
+
+get more clients https://jenniferbourn.com/find-web-design-clients/
+
+https://www.reddit.com/r/Entrepreneur/comments/5ffp9j/web_design_only_started_in_jan_this_year_making/
+
+customer reviews https://www.webdesignerexpress.com/reviews
+
+portfolio https://www.skillshare.com/classes/UXUI-case-studies-%E2%80%93-Portfolio-Masterclass/1482721826?via=browse-featured
+
 
 # friend's portfolio & cool website
 
