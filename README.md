@@ -25,6 +25,7 @@ https://leetcode.com/
 
 hackerrank https://www.hackerrank.com/dashboard
 
+blog https://medium.com/@vaidehijoshi
 
 # interview-prep
 
