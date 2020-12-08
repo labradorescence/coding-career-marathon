@@ -158,6 +158,10 @@ customer reviews https://www.webdesignerexpress.com/reviews
 
 portfolio https://www.skillshare.com/classes/UXUI-case-studies-%E2%80%93-Portfolio-Masterclass/1482721826?via=browse-featured
 
+# templates
+react: https://landing.ant.design/
+
+
 # hiring developer
 https://www.developersforhire.com/web/
 
