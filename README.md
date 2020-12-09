@@ -132,6 +132,8 @@ https://github.com/d3/d3/wiki/Tutorials
 
 https://d3js.org/
 
+https://observablehq.com/@d3/gallery
+
 https://www.freecodecamp.org/news/how-to-get-started-with-d3-and-react-c7da74a5bd9f/
 
 https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
