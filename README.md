@@ -13,6 +13,18 @@ https://www.workatastartup.com/
 
 https://we.include.io/all-jobs
 
+
+
+# recruiters
+
+https://vettery.com/
+
+https://hired.com/
+
+https://underdog.io/
+
+
+
 # algo study
 algo course by Colt Steele
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass 
