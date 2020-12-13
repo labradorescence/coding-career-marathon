@@ -136,8 +136,10 @@ vultr.com
 # react css animation 
 https://reactjsexample.com/tag/animation/
 
+
 # css portfolio
 https://www.csswinner.com/category/Portfolio/4
+
 
 # D3
 https://github.com/d3/d3/wiki/Tutorials
@@ -154,6 +156,8 @@ https://wattenberger.com/blog/react-and-d3
 
 
 # d3 and react 
+
+https://www.youtube.com/watch?v=pzMTVChKvjo
 
 https://observablehq.com/@observablehq/how-to-embed-a-notebook-in-a-react-app
 
