@@ -174,6 +174,9 @@ https://www.youtube.com/watch?v=pzMTVChKvjo
 # wine 
 https://www.menada-winery.com/en/region
 
+https://medium.com/learning-lab/how-to-taste-wine-like-a-sir-c0296c61024c
+
+
 # flatiron mod 4
 
 https://github.com/labradorescence/flatiron-mod4-instruction
