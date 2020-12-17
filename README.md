@@ -217,3 +217,5 @@ https://bashir2017.github.io/bashir-portfolio/#portfolio
 
 https://ccedacero.com/
 
+https://jinnic.github.io/portfolio/#projects
+
