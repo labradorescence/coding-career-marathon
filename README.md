@@ -83,6 +83,8 @@ https://www.womenwhocode.com/
 
 https://www.youtube.com/user/WomenWhoCode
 
+https://docs.google.com/forms/d/1tXja5UTTqTkajQxlqMyk0hbs9NCoHSw7sxUlO7Wfcr0/viewform?edit_requested=true
+
 # stalking company
 
 https://angel.co/
