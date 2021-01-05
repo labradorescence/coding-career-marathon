@@ -71,6 +71,8 @@ https://www.contractrecruiter.com/guide-hire-software-engineers/
 
 cool projects for the resume: https://dev.to/liviufromendtest/6-small-projects-that-will-boost-your-resume-32pa?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=
 
+https://www.themuse.com/advice/how-to-write-software-engineer-resume-example
+
 # create awesome git/ readMe
 
 https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
