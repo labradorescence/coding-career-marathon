@@ -200,8 +200,9 @@ portfolio https://www.skillshare.com/classes/UXUI-case-studies-%E2%80%93-Portfol
 
 sites with background videos https://www.siteinspire.com/websites?categories=145
 
-levelmusic.com
+https://levelmusic.com
 
+https://josef.online/
 
 # gatsby
 https://www.gatsbyjs.com/docs/tutorial/
