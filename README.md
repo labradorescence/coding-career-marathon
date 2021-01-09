@@ -73,6 +73,8 @@ cool projects for the resume: https://dev.to/liviufromendtest/6-small-projects-t
 
 https://www.themuse.com/advice/how-to-write-software-engineer-resume-example
 
+testing engineer https://www.jobhero.com/resume/examples/computer-software/software-testing-engineer
+
 # create awesome git/ readMe
 
 https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
