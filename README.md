@@ -75,6 +75,15 @@ https://www.themuse.com/advice/how-to-write-software-engineer-resume-example
 
 testing engineer https://www.jobhero.com/resume/examples/computer-software/software-testing-engineer
 
+google resume advice https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html
+
+good/bad example https://leetresumes.com/examples
+
+slide https://www.dropbox.com/s/da9g4h53qqcmlrn/Women%20Who%20Code%20Meetup%20Leet%20Deck%20%E2%80%A2%20January%202021.pdf?dl=0
+
+
+
+
 # create awesome git/ readMe
 
 https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b
