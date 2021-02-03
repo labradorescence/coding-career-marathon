@@ -156,7 +156,16 @@ https://reactjsexample.com/tag/animation/
 https://www.csswinner.com/category/Portfolio/4
 
 
-learn CSS https://flexboxfroggy.com/
+# learn CSS 
+
+css grid: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout
+
+flexbox https://codepen.io/aradevich/full/poEYexB
+
+https://flexboxfroggy.com/
+
+flexbox w/ wrap
+explore css grid, dynamic text size scaling
 
 # D3
 https://github.com/d3/d3/wiki/Tutorials
