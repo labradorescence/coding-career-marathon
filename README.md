@@ -24,6 +24,9 @@ https://underdog.io/
 
 
 # flatiron 420 lectures
+
+EVERY LECTURES and VIDEOS https://github.com/learn-co-curriculum/nyc04-seng-ft-041920/
+
 react-auth : https://github.com/ihollander/rails-react-auth-lecture
 
 video : https://www.youtube.com/playlist?list=PLc6AmvC5Zybxn5cyGUURq73JFPkjeRGoU
