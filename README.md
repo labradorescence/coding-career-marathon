@@ -25,6 +25,7 @@ https://underdog.io/
 
 # flatiron 420 lectures
 https://github.com/ihollander/rails-react-auth-lecture
+https://www.youtube.com/watch?v=nYiHOdtmGFw
 https://levelup.gitconnected.com/jwt-auth-in-a-react-rails-app-8a7e6ba1ac0?source=friends_link&sk=1806f9af290ec0e0f20903676506276f
 
 # Rei's blog train
