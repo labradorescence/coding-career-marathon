@@ -207,6 +207,9 @@ https://flexboxfroggy.com/
 flexbox w/ wrap
 explore css grid, dynamic text size scaling
 
+# CSS more links react CSS frameworks
+https://dev.to/weeb/10-of-the-best-css-animation-libraries-31d7#animista
+
 # D3
 https://github.com/d3/d3/wiki/Tutorials
 
