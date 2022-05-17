@@ -79,6 +79,8 @@ hackerrank https://www.hackerrank.com/dashboard
 
 blog https://medium.com/@vaidehijoshi
 
+top 10 https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+
 # interview-prep
 
 flatiron interview prep videos:
