@@ -313,3 +313,5 @@ https://www.canva.com/
 
 https://www.dropbox.com/sh/mdun2xb9u9hr1v3/AAAKhyw4RqzUS9BVr75Z1s6Va/Lectures?dl=0&preview=coms4170-1-intro.pdf&subfolder_nav_tracking=1
 
+# music 
+https://sonic-pi.net/
