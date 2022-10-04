@@ -23,6 +23,10 @@ https://hired.com/
 https://underdog.io/
 
 
+# terminal stuff
+https://explainshell.com/
+
+
 # flatiron 420 lectures
 
 EVERY LECTURES and VIDEOS https://github.com/learn-co-curriculum/nyc04-seng-ft-041920/
