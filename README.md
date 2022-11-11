@@ -26,6 +26,8 @@ https://underdog.io/
 # terminal stuff
 https://explainshell.com/
 
+https://ohmyz.sh/
+
 
 # flatiron 420 lectures
 
