@@ -29,7 +29,7 @@ https://explainshell.com/
 https://ohmyz.sh/
 
 
-# flatiron 420 lectures
+# flatiron 04202020 lectures
 
 EVERY LECTURES and VIDEOS https://github.com/learn-co-curriculum/nyc04-seng-ft-041920/
 
@@ -37,6 +37,8 @@ react-auth : https://github.com/ihollander/rails-react-auth-lecture
 
 Rails + React Session Auth playlist : https://www.youtube.com/playlist?list=PLc6AmvC5Zybxn5cyGUURq73JFPkjeRGoU
 
+# flatiron 08082022 lectures
+https://docs.google.com/spreadsheets/d/1za1c7Nw1JDVMRaGlXDSJJcXJ8vI5EkXn1nQBYhZMNk0/edit#gid=230087544
 
 # Rei's blog train
 Redux:
