@@ -182,7 +182,7 @@ React - Redux with JWT Tokens => https://medium.com/better-programming/build-a-r
 
 Build a Rails API With JWT => https://medium.com/better-programming/build-a-rails-api-with-jwt-61fb8a52d833?source=friends_link&sk=2494b876bc63929d2237cddf3fa25438
 
-
+polymorphic association in rails => https://betterprogramming.pub/polymorphic-associations-in-rails-72a91ae1a9dd
 
 # deploying project
 Rails Backend: https://devcenter.heroku.com/articles/getting-started-with-rails6
