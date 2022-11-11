@@ -35,11 +35,8 @@ EVERY LECTURES and VIDEOS https://github.com/learn-co-curriculum/nyc04-seng-ft-0
 
 react-auth : https://github.com/ihollander/rails-react-auth-lecture
 
-video : https://www.youtube.com/playlist?list=PLc6AmvC5Zybxn5cyGUURq73JFPkjeRGoU
+Rails + React Session Auth playlist : https://www.youtube.com/playlist?list=PLc6AmvC5Zybxn5cyGUURq73JFPkjeRGoU
 
-video : https://www.youtube.com/watch?v=nYiHOdtmGFw
-
-https://levelup.gitconnected.com/jwt-auth-in-a-react-rails-app-8a7e6ba1ac0?source=friends_link&sk=1806f9af290ec0e0f20903676506276f
 
 # Rei's blog train
 Redux:
