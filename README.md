@@ -111,6 +111,8 @@ wwc Hacktoberfest: https://www.youtube.com/watch?v=xa2dr8WNwv4&list=PLVcEZG2JPVh
 
 google open source https://opensource.google/docs/releasing/template/CONTRIBUTING/
 
+slide https://github.com/hakimel/reveal.js
+
 
 # resume - tech projects and experience writing
 https://www.beamjobs.com/resumes/software-engineer-resume-examples
@@ -147,6 +149,8 @@ https://www.womenwhocode.com/
 https://www.youtube.com/user/WomenWhoCode
 
 https://docs.google.com/forms/d/1tXja5UTTqTkajQxlqMyk0hbs9NCoHSw7sxUlO7Wfcr0/viewform?edit_requested=true
+
+
 
 # stalking company
 
