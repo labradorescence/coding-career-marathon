@@ -89,6 +89,8 @@ blog https://medium.com/@vaidehijoshi
 
 top 10 https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
+https://codellama.dev/problems
+
 # interview-prep
 
 flatiron interview prep videos:
@@ -291,6 +293,9 @@ https://compassionappeal.znstudio.com.au/
 # Design 
 
 https://creativemarket.com/
+
+# Image
+https://thenounproject.com/
 
 https://www.canva.com/
 
