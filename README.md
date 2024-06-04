@@ -1,3 +1,9 @@
+# e-commerce
+elixir/phoenix
+https://shankardevy.com/phoenix-inside-out-mpf/#summary-12
+
+
+
 # job listings
 https://www.builtinnyc.com/jobs
 
